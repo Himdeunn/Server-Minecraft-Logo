@@ -23,7 +23,8 @@ resource-pack-sha1=6a3e686a3e4c4a727fc436498aac7df0fe5f6d40
 
 ## Credits
 
-- Developed by [Your Name](https://github.com/yourusername)
+- Created by [DeathEnderMan](https://github.com/DeathEnderMan)
+- Redesign by [Himdeunn](https://github.com/Himdeunn)
 - Special thanks to the [Geyser](https://geysermc.org) team for their amazing work.
 
 
